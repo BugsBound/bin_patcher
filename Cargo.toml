@@ -1,0 +1,12 @@
+[package]
+name = "bin_patcher"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "3.0.0-beta.5", features = ["derive"] }
+anyhow = "1.0.40"
+hex = "0.4.3"
+goblin = "0.4.2"
