@@ -13,7 +13,7 @@ impl Config {
         let matches = App::new("BIN Patcher")
             .about("\nThe program allows altering data in a given file, \
                 writing bytes to a specified memory address.")
-            .author("Author: @BugsBound").version("v1.0.0")
+            .author("Author: BugsBound").version("v1.0.1")
             .arg(
                 Arg::new("file")
                     .short('f')

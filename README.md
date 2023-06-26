@@ -8,8 +8,6 @@ BIN Patcher is a simple Rust-based program for patching BIN files.
 
 The program allows altering data in a given file, writing bytes to a specified memory address, and supports ELF format.
 
-Author: @BugsBound
-
 ## Installation
 
 You can download the ready-to-use binary from the releases section, or compile the program yourself.
@@ -51,3 +49,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Call to the Community
 
 This project is open for community contribution. We welcome any ideas and suggestions for improving functionality or bug fixes. If you would like to contribute, feel free to create pull requests.
+
+## Disclaimer
+This code is provided for educational and informational purposes only. Use this code responsibly and ensure that you have proper authorization to test or exploit a target system. Using this code without permission on systems you don't own or have legal authorization to access is illegal. The author disclaim any responsibility for any misuse or illegal activities performed with this code.
+
+**Use at your own risk!**
